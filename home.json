@@ -1,0 +1,111 @@
+{
+  "source": "https://www.junelukuyu.com/",
+  "blocks": [
+    {
+      "text": "The Interdisciplinary Energy Analytics for Society Research Lab",
+      "links": [],
+      "tag": "h1"
+    },
+    {
+      "text": "The IDEAS Research Lab at the University of Washington’s Department of Electrical and Computer Engineering focuses on advancing sustainable, inclusive, and equitable energy systems. We work at the intersection of climate, energy, and development to support communities and policymakers in driving just, community-centered energy transitions. Through innovative research and data-driven insights, we integrate technical solutions with social and economic perspectives to help shape resilient and inclusive energy futures.",
+      "links": [],
+      "tag": "p"
+    },
+    {
+      "text": "IDEAS for Community-Responsive Development-Centered Energy Systems",
+      "links": [],
+      "tag": "h2"
+    },
+    {
+      "text": "At the IDEAS Research Lab, we are driven by a commitment to applied research and use-inspired basic science to address the pressing energy challenges of our time. Our work bridges engineering, policy, and social impact to advance equitable, sustainable, and resilient energy systems. We collaborate closely with communities, energy providers, multi-disciplinary academics, and non-profits to ensure that our research leads to practical and scalable solutions, particularly for underserved populations. Our core research themes revolve around: Energy Planning and Development: Designing inclusive and just energy systems that prioritize social equity in access, affordability, and agency in both the Global North and South. End-Use Electrification and Energy Access: Investigating electric mobility, electric cooking, and productive uses of energy to support development goals. Power System Reliability & Resilience: Planning for reliable, resilient, and climate-informed grid systems—urban and rural, centralized and decentralized. Interdisciplinary and Contextual Approaches: Integrating technical, behavioral, and institutional insights to inform energy policy and technology adoption.",
+      "links": [],
+      "tag": "p"
+    },
+    {
+      "text": "News & Events",
+      "links": [],
+      "tag": "h2"
+    },
+    {
+      "text": "Latest Publications",
+      "links": [],
+      "tag": "h2"
+    },
+    {
+      "text": "Grid connections and inequitable access to electricity in African cities",
+      "links": [],
+      "tag": "p"
+    },
+    {
+      "text": "This study provides a grounded, empirical analysis of grid connections across 25 informal settlements in the Ugandan capital city of Kampala. Using a mixed-methods approach that incorporates surveys, interviews and remote power quality monitoring, we trace electrical and financial flows between the utility, supply intermediaries and end users. We identify 29 unique configurations of these flows—which we term service arrangements—that provide electricity of varying and overall limited levels of affordability, reliability, voltage stability, precarity, autonomy and safety. Our evidence suggests that the grid delivers highly inequitable electricity services that fall short of aspirations of modern energy for the city’s most vulnerable communities.",
+      "links": [],
+      "tag": "p"
+    },
+    {
+      "text": "Jessica Kersey, Civian Kiki Massa, June Lukuyu, Judith Mbabazi, Jay Taneja, Daniel M Kammen and Veronica Jacome",
+      "links": [],
+      "tag": "p"
+    }
+  ],
+  "images": [
+    {
+      "alt": "IMG_0945_edited.jpg",
+      "url": "https://static.wixstatic.com/media/416953_ebd9755e02dd4c889971005c501f32f4~mv2.jpg/v1/fill/w_121,h_80,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/416953_ebd9755e02dd4c889971005c501f32f4~mv2.jpg"
+    },
+    {
+      "alt": "Kigali Data Collection: May - Aug 2025",
+      "url": "https://static.wixstatic.com/media/416953_8a9772d992674e85ad7ff2eab049bc5e~mv2.jpeg/v1/fill/w_444,h_250,fp_0.50_0.50,q_30,blur_30,enc_avif,quality_auto/416953_8a9772d992674e85ad7ff2eab049bc5e~mv2.webp"
+    },
+    {
+      "alt": "Kigali Data Collection: May - Aug 2025",
+      "url": "https://static.wixstatic.com/media/416953_8a9772d992674e85ad7ff2eab049bc5e~mv2.jpeg/v1/fill/w_316,h_178,fp_0.50_0.50,q_90,enc_avif,quality_auto/416953_8a9772d992674e85ad7ff2eab049bc5e~mv2.webp"
+    },
+    {
+      "alt": "IDEAS Lab at the 2025 UW ECE Research Showcase (March 2025)",
+      "url": "https://static.wixstatic.com/media/416953_8141fd583e1f400d8be1538273245cc1~mv2.jpg/v1/fill/w_444,h_250,fp_0.50_0.50,q_30,blur_30,enc_avif,quality_auto/416953_8141fd583e1f400d8be1538273245cc1~mv2.webp"
+    },
+    {
+      "alt": "IDEAS Lab at the 2025 UW ECE Research Showcase (March 2025)",
+      "url": "https://static.wixstatic.com/media/416953_8141fd583e1f400d8be1538273245cc1~mv2.jpg/v1/fill/w_316,h_178,fp_0.50_0.50,q_90,enc_avif,quality_auto/416953_8141fd583e1f400d8be1538273245cc1~mv2.webp"
+    },
+    {
+      "alt": "Third US-Africa Frontiers of Science, Engineering, and Medicine Symposium (Feb 2025)",
+      "url": "https://static.wixstatic.com/media/416953_09b1c4f1752f44d39302d736cc3bf24e~mv2.jpeg/v1/fill/w_444,h_250,fp_0.50_0.50,q_30,blur_30,enc_avif,quality_auto/416953_09b1c4f1752f44d39302d736cc3bf24e~mv2.webp"
+    },
+    {
+      "alt": "Third US-Africa Frontiers of Science, Engineering, and Medicine Symposium (Feb 2025)",
+      "url": "https://static.wixstatic.com/media/416953_09b1c4f1752f44d39302d736cc3bf24e~mv2.jpeg/v1/fill/w_316,h_178,fp_0.50_0.50,q_90,enc_avif,quality_auto/416953_09b1c4f1752f44d39302d736cc3bf24e~mv2.webp"
+    },
+    {
+      "alt": "Image by Harisankar",
+      "url": "https://static.wixstatic.com/media/nsplsh_c805d95bf526416c9dfe2eddbd566ec4~mv2.jpg/v1/fill/w_52,h_31,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/nsplsh_c805d95bf526416c9dfe2eddbd566ec4~mv2.jpg"
+    }
+  ],
+  "links": [
+    {
+      "text": "Read More",
+      "url": "https://www.junelukuyu.com/research"
+    },
+    {
+      "text": "Kigali Data Collection: May - Aug 2025",
+      "url": "https://www.junelukuyu.com/post/kigali-data-collection-may-aug-2025"
+    },
+    {
+      "text": "IDEAS Lab at the 2025 UW ECE Research Showcase (March 2025)",
+      "url": "https://www.junelukuyu.com/post/ideas-lab-at-the-2025-uw-ece-research-showcase"
+    },
+    {
+      "text": "Third US-Africa Frontiers of Science, Engineering, and Medicine Symposium (Feb 2025)",
+      "url": "https://www.junelukuyu.com/post/third-us-africa-frontiers-of-science-engineering-and-medicine-symposium"
+    },
+    {
+      "text": "Read All Posts",
+      "url": "https://www.junelukuyu.com/news"
+    },
+    {
+      "text": "Read More",
+      "url": "https://www.junelukuyu.com/publications"
+    }
+  ],
+  "hero": "fieldwork.jpg"
+}

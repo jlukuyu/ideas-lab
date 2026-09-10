@@ -1,0 +1,246 @@
+{
+  "source": "https://www.junelukuyu.com/our-team",
+  "blocks": [
+    {
+      "text": "Meet The Team",
+      "links": [],
+      "tag": "h2"
+    },
+    {
+      "text": "Our Research Group",
+      "links": [],
+      "tag": "h1"
+    },
+    {
+      "text": "WE STRIVE TO PUSH ENGINEERING BOUNDARIES TO IMPROVE ENERGY SYSTEMS IN UNDERSERVED COMMUNITIES",
+      "links": [],
+      "tag": "p"
+    },
+    {
+      "text": "June Lukuyu",
+      "links": [],
+      "tag": "h3"
+    },
+    {
+      "text": "Principal Investigator",
+      "links": [],
+      "tag": "p"
+    },
+    {
+      "text": "June is an Assistant Professor of Electrical and Computer Engineering at the University of Washington. She holds a Ph.D. from the University of Massachusetts, an MSc. in Renewable Energy Systems from Loughborough University, and a BS in Engineering Science from Smith College. She is affiliated with the UW Clean Energy Institute, the e-GUIDE initiative, the Energy for Growth Hub, the Kigali Collaborative Research Center, and is on the board of Spark NorthWest.",
+      "links": [],
+      "tag": "p"
+    },
+    {
+      "text": "https://people.ece.uw.edu/lukuyu_june/index.html",
+      "links": [
+        {
+          "text": "https://people.ece.uw.edu/lukuyu_june/index.html",
+          "url": "https://people.ece.uw.edu/lukuyu_june/index.html"
+        }
+      ],
+      "tag": "p"
+    },
+    {
+      "text": "Eliane Nirere",
+      "links": [],
+      "tag": "h3"
+    },
+    {
+      "text": "PhD Student",
+      "links": [],
+      "tag": "p"
+    },
+    {
+      "text": "Eliane earned her master's degree in Electrical and Computer Engineering with a specialization in Energy Systems from Carnegie Mellon University Africa. Her research focuses on the planning and implementation of technologies that enhance sustainable energy access in underserved communities.",
+      "links": [],
+      "tag": "p"
+    },
+    {
+      "text": "https://www.linkedin.com/in/eliane-nirere-3ab360174",
+      "links": [
+        {
+          "text": "https://www.linkedin.com/in/eliane-nirere-3ab360174",
+          "url": "mailto:info@mysite.com"
+        }
+      ],
+      "tag": "p"
+    },
+    {
+      "text": "Ahana Mukherjee",
+      "links": [],
+      "tag": "h3"
+    },
+    {
+      "text": "PhD Student",
+      "links": [],
+      "tag": "p"
+    },
+    {
+      "text": "Ahana has a bachelor's degree in Civil & Environmental Engineering from UCLA and a master's degree in Energy, Civil Infrastructure, and Climate from UC Berkeley. She has experience designing and implementing utility-scale battery energy storage systems and commercial solar and electric vehicle charging infrastructure. Her research interests include renewable energy power systems, electrification, energy access, and socially-conscious equitable designs.",
+      "links": [],
+      "tag": "p"
+    },
+    {
+      "text": "https://www.linkedin.com/in/ahana-mukherjee-a145aa55",
+      "links": [
+        {
+          "text": "https://www.linkedin.com/in/ahana-mukherjee-a145aa55",
+          "url": "mailto:info@mysite.com"
+        }
+      ],
+      "tag": "p"
+    },
+    {
+      "text": "Kwame Donkor",
+      "links": [],
+      "tag": "h3"
+    },
+    {
+      "text": "PhD Student",
+      "links": [],
+      "tag": "p"
+    },
+    {
+      "text": "Kwame is passionate about enhancing the reliability and sustainability of electrical grid systems through data analytics. He is excited about the possibilities of using data from grids and renewable energy sources to meet demand shortfalls and provide cheaper, better-quality electricity for underserved communities. Kwame has extensive experience in the electrical services and automation industry in Accra, Ghana, and is drawn to autonomous systems. In his free time, he enjoys the occasional Netflix binge, playing football (not the American one!), taking long walks, exploring the outdoors, and spending time with friends.",
+      "links": [],
+      "tag": "p"
+    },
+    {
+      "text": "https://www.linkedin.com/in/ing-kwame-donkor",
+      "links": [
+        {
+          "text": "https://www.linkedin.com/in/ing-kwame-donkor",
+          "url": "https://www.linkedin.com/in/ing-kwame-donkor"
+        }
+      ],
+      "tag": "p"
+    },
+    {
+      "text": "Miquilina Anagbah",
+      "links": [],
+      "tag": "h3"
+    },
+    {
+      "text": "PhD Student",
+      "links": [],
+      "tag": "p"
+    },
+    {
+      "text": "Miquilina's passion for clean energy access and mini-grid development is electrifying! With a strong foundation in power systems analysis, design, and operations, Miquilina aims to revolutionize how we think about electrification for sustainable development. She earned her Master's in Electrical and Computer Engineering from Carnegie Mellon University Africa. Her research dives deep into mini-grid techno-economic analyses and grid integration studies and looks for new ways to push the boundaries of what's possible. Outside the lab, she loves studying new languages and playing the piano.",
+      "links": [],
+      "tag": "p"
+    },
+    {
+      "text": "https://rw.linkedin.com/in/miquilinaanagbah",
+      "links": [
+        {
+          "text": "https://rw.linkedin.com/in/miquilinaanagbah",
+          "url": "mailto:info@mysite.com"
+        }
+      ],
+      "tag": "p"
+    },
+    {
+      "text": "Aya Alayli",
+      "links": [],
+      "tag": "h3"
+    },
+    {
+      "text": "PhD Student",
+      "links": [],
+      "tag": "p"
+    },
+    {
+      "text": "Aya has a strong passion for grid planning, sustainable development, policy, and energy equity. She earned her Bachelor's from the Electrical and Computer Engineering department here at UW and has previous experience working within different aspects of the electric power industry. Her research interests center around community-led energy transitions, energy justice, and resiliency. Outside of the lab, Aya enjoys exploring Seattle, reading, and spending time outdoors",
+      "links": [],
+      "tag": "p"
+    },
+    {
+      "text": "https://www.linkedin.com/in/ayaalayli",
+      "links": [
+        {
+          "text": "https://www.linkedin.com/in/ayaalayli",
+          "url": "https://www.linkedin.com/in/ayaalayli"
+        }
+      ],
+      "tag": "p"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "url": "https://static.wixstatic.com/media/416953_19ef44487c7746968388c83035987b90~mv2.jpg/v1/fill/w_147,h_57,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/416953_19ef44487c7746968388c83035987b90~mv2.jpg"
+    },
+    {
+      "alt": "",
+      "url": "https://static.wixstatic.com/media/416953_88d47431b2cc44a28d41c650d6f7beec~mv2.jpg/v1/fill/w_272,h_181,q_90,enc_avif,quality_auto/416953_88d47431b2cc44a28d41c650d6f7beec~mv2.jpg"
+    },
+    {
+      "alt": "",
+      "url": "https://static.wixstatic.com/media/416953_da10889258c24829ac6879edad2a7b38~mv2.jpg/v1/fill/w_272,h_181,q_90,enc_avif,quality_auto/416953_da10889258c24829ac6879edad2a7b38~mv2.jpg"
+    },
+    {
+      "alt": "",
+      "url": "https://static.wixstatic.com/media/416953_1d3312ab8f244183b54915286365deb4~mv2.jpg/v1/fill/w_554,h_370,q_90,enc_avif,quality_auto/416953_1d3312ab8f244183b54915286365deb4~mv2.jpg"
+    },
+    {
+      "alt": "",
+      "url": "https://static.wixstatic.com/media/416953_86d28f9f4cef4c15967a17f8bd07f268~mv2.jpg/v1/fill/w_416,h_276,q_90,enc_avif,quality_auto/416953_86d28f9f4cef4c15967a17f8bd07f268~mv2.jpg"
+    },
+    {
+      "alt": "",
+      "url": "https://static.wixstatic.com/media/416953_42d50456b3b44613b0a77941c59e0cd7~mv2.jpg/v1/fill/w_416,h_275,q_90,enc_avif,quality_auto/416953_42d50456b3b44613b0a77941c59e0cd7~mv2.jpg"
+    },
+    {
+      "alt": "headshot_2.jpg",
+      "url": "https://static.wixstatic.com/media/416953_56e62851ba884403a5a48341c772b58e~mv2.jpg/v1/crop/x_50,y_0,w_500,h_600/fill/w_220,h_264,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/headshot_2.jpg"
+    },
+    {
+      "alt": "eliane.jpg",
+      "url": "https://static.wixstatic.com/media/416953_259b50c9e21e474cb1212b60f32c7f45~mv2.jpg/v1/crop/x_55,y_0,w_490,h_600/fill/w_219,h_268,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/eliane.jpg"
+    },
+    {
+      "alt": "ahana.jpg",
+      "url": "https://static.wixstatic.com/media/416953_d2fd0288f07543e5aa5802ad77607161~mv2.jpg/v1/crop/x_54,y_0,w_493,h_600/fill/w_220,h_268,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/ahana.jpg"
+    },
+    {
+      "alt": "kwame.jpg",
+      "url": "https://static.wixstatic.com/media/416953_0220147dbcac4a5a8c0d8432f788575f~mv2.jpg/v1/crop/x_58,y_0,w_485,h_600/fill/w_219,h_271,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/kwame.jpg"
+    },
+    {
+      "alt": "IMG_1475_edited.jpg",
+      "url": "https://static.wixstatic.com/media/416953_52bfc097b5f74db48bf459c717958df2~mv2.jpg/v1/crop/x_118,y_0,w_1136,h_1384/fill/w_220,h_268,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_1475_edited.jpg"
+    },
+    {
+      "alt": "headshot2.png",
+      "url": "https://static.wixstatic.com/media/416953_b3518fa4ea46432bb7ba8630010ea0ef~mv2.png/v1/crop/x_0,y_32,w_1080,h_1327/fill/w_219,h_269,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/headshot2.png"
+    }
+  ],
+  "links": [
+    {
+      "text": "https://people.ece.uw.edu/lukuyu_june/index.html",
+      "url": "https://people.ece.uw.edu/lukuyu_june/index.html"
+    },
+    {
+      "text": "https://www.linkedin.com/in/eliane-nirere-3ab360174",
+      "url": "mailto:info@mysite.com"
+    },
+    {
+      "text": "https://www.linkedin.com/in/ahana-mukherjee-a145aa55",
+      "url": "mailto:info@mysite.com"
+    },
+    {
+      "text": "https://www.linkedin.com/in/ing-kwame-donkor",
+      "url": "https://www.linkedin.com/in/ing-kwame-donkor"
+    },
+    {
+      "text": "https://rw.linkedin.com/in/miquilinaanagbah",
+      "url": "mailto:info@mysite.com"
+    },
+    {
+      "text": "https://www.linkedin.com/in/ayaalayli",
+      "url": "https://www.linkedin.com/in/ayaalayli"
+    }
+  ]
+}

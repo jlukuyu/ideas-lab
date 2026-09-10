@@ -1,0 +1,71 @@
+{
+  "source": "https://www.junelukuyu.com/news",
+  "blocks": [
+    {
+      "text": "News & Updates",
+      "links": [],
+      "tag": "h1"
+    },
+    {
+      "text": "Stay up to date with the latest news, events, and milestones from our research lab. Explore our recent breakthroughs, student achievements, and upcoming publications.",
+      "links": [],
+      "tag": "p"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Image by Ian Schneider",
+      "url": "https://static.wixstatic.com/media/nsplsh_fe08629d4c5142408d8bd09752ba5e17~mv2.jpg/v1/fill/w_97,h_65,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/nsplsh_fe08629d4c5142408d8bd09752ba5e17~mv2.jpg"
+    },
+    {
+      "alt": "Kigali Data Collection: May - Aug 2025",
+      "url": "https://static.wixstatic.com/media/416953_8a9772d992674e85ad7ff2eab049bc5e~mv2.jpeg/v1/fill/w_333,h_250,fp_0.50_0.50,q_30,blur_30,enc_avif,quality_auto/416953_8a9772d992674e85ad7ff2eab049bc5e~mv2.webp"
+    },
+    {
+      "alt": "Kigali Data Collection: May - Aug 2025",
+      "url": "https://static.wixstatic.com/media/416953_8a9772d992674e85ad7ff2eab049bc5e~mv2.jpeg/v1/fill/w_454,h_341,fp_0.50_0.50,q_90,enc_avif,quality_auto/416953_8a9772d992674e85ad7ff2eab049bc5e~mv2.webp"
+    },
+    {
+      "alt": "IDEAS Lab at the 2025 UW ECE Research Showcase (March 2025)",
+      "url": "https://static.wixstatic.com/media/416953_8141fd583e1f400d8be1538273245cc1~mv2.jpg/v1/fill/w_333,h_250,fp_0.50_0.50,q_30,blur_30,enc_avif,quality_auto/416953_8141fd583e1f400d8be1538273245cc1~mv2.webp"
+    },
+    {
+      "alt": "IDEAS Lab at the 2025 UW ECE Research Showcase (March 2025)",
+      "url": "https://static.wixstatic.com/media/416953_8141fd583e1f400d8be1538273245cc1~mv2.jpg/v1/fill/w_454,h_341,fp_0.50_0.50,q_90,enc_avif,quality_auto/416953_8141fd583e1f400d8be1538273245cc1~mv2.webp"
+    },
+    {
+      "alt": "Third US-Africa Frontiers of Science, Engineering, and Medicine Symposium (Feb 2025)",
+      "url": "https://static.wixstatic.com/media/416953_09b1c4f1752f44d39302d736cc3bf24e~mv2.jpeg/v1/fill/w_333,h_250,fp_0.50_0.50,q_30,blur_30,enc_avif,quality_auto/416953_09b1c4f1752f44d39302d736cc3bf24e~mv2.webp"
+    },
+    {
+      "alt": "Third US-Africa Frontiers of Science, Engineering, and Medicine Symposium (Feb 2025)",
+      "url": "https://static.wixstatic.com/media/416953_09b1c4f1752f44d39302d736cc3bf24e~mv2.jpeg/v1/fill/w_454,h_341,fp_0.50_0.50,q_90,enc_avif,quality_auto/416953_09b1c4f1752f44d39302d736cc3bf24e~mv2.webp"
+    },
+    {
+      "alt": "Kigali Data Collection: August 2024",
+      "url": "https://static.wixstatic.com/media/416953_9ab9525937494710a49b81604a24f922~mv2.jpg/v1/fill/w_333,h_250,fp_0.50_0.50,q_30,blur_30,enc_avif,quality_auto/416953_9ab9525937494710a49b81604a24f922~mv2.webp"
+    },
+    {
+      "alt": "Kigali Data Collection: August 2024",
+      "url": "https://static.wixstatic.com/media/416953_9ab9525937494710a49b81604a24f922~mv2.jpg/v1/fill/w_454,h_341,fp_0.50_0.50,q_90,enc_avif,quality_auto/416953_9ab9525937494710a49b81604a24f922~mv2.webp"
+    }
+  ],
+  "links": [
+    {
+      "text": "Kigali Data Collection: May - Aug 2025",
+      "url": "https://www.junelukuyu.com/post/kigali-data-collection-may-aug-2025"
+    },
+    {
+      "text": "IDEAS Lab at the 2025 UW ECE Research Showcase (March 2025)",
+      "url": "https://www.junelukuyu.com/post/ideas-lab-at-the-2025-uw-ece-research-showcase"
+    },
+    {
+      "text": "Third US-Africa Frontiers of Science, Engineering, and Medicine Symposium (Feb 2025)",
+      "url": "https://www.junelukuyu.com/post/third-us-africa-frontiers-of-science-engineering-and-medicine-symposium"
+    },
+    {
+      "text": "Kigali Data Collection: August 2024",
+      "url": "https://www.junelukuyu.com/post/kigali-data-collection-august-2024"
+    }
+  ]
+}

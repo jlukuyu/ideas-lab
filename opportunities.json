@@ -1,0 +1,47 @@
+{
+  "source": "https://www.junelukuyu.com/opportunities",
+  "blocks": [
+    {
+      "text": "Current Opportunities",
+      "links": [],
+      "tag": "h1"
+    },
+    {
+      "text": "Prospective Students: Thank you for your interest in the IDEAS Research Lab. At this time, we are not accepting new graduate students. We appreciate your understanding and encourage you to check back in the future for any updates.",
+      "links": [],
+      "tag": "p"
+    },
+    {
+      "text": "Paul Allen Center, 185 E Stevens Way NE AE100R, Seattle, WA 98195",
+      "links": [],
+      "tag": "p"
+    },
+    {
+      "text": "jlukuyu@uw.edu",
+      "links": [
+        {
+          "text": "jlukuyu@uw.edu",
+          "url": "mailto:jlukuyu@uw.edu"
+        }
+      ],
+      "tag": "p"
+    },
+    {
+      "text": "206-616-4502",
+      "links": [],
+      "tag": "p"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "url": "https://static.wixstatic.com/media/ad420a_0780336cf341461484e14a9f92ca02a1~mv2.jpg/v1/fill/w_97,h_65,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/ad420a_0780336cf341461484e14a9f92ca02a1~mv2.jpg"
+    }
+  ],
+  "links": [
+    {
+      "text": "jlukuyu@uw.edu",
+      "url": "mailto:jlukuyu@uw.edu"
+    }
+  ]
+}
